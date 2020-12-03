@@ -1,4 +1,4 @@
-# k_means_implementation
+# Machine Learning Algorithm - k means
 This program reduces a wav file size using k means algorithm
 
 In order to run the program:
